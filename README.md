@@ -1,6 +1,6 @@
 # Offiziersmesser
 
-
+Collection of useful scripts for daily and research related operations.
 
 ## Plots
 
